@@ -1,8 +1,24 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #00B7FF;
+  background-color: white;
 }
 
-a {
-  color: #00B7FF;
+.header{
+  clear: both;
+  background-color: coral;
+  height: 100px;
+  font-size: xx-large;
+  padding-left: 2%;
+}
+.title{
+  font-size: x-large;
+  text-align: center;
+}
+.right{
+  float: right;
+  width: 50%;
+  border: 5px solid black;
+  height: 600px;
+  margin-right: 25%
 }
